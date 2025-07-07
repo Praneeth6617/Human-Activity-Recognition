@@ -23,6 +23,11 @@ project/
 bash
 Copy
 Edit
+### Download resnet-34_kinetics.onnx
+This is the pre-trained ONNX model for human action recognition.
+
+🔗 Download from:
+👉 https://www.dropbox.com/s/065l4vr8bptzohb/resnet-34_kinetics.onnx?dl=1
 
 ## 🚀 Getting Started
 
@@ -30,7 +35,8 @@ Edit
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
- 2. Install Dependencies
+
+### 2. Install Dependencies
 Make sure Python and OpenCV are installed:
 
 bash
