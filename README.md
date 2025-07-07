@@ -17,7 +17,7 @@ project/
 ├── model/
 │ ├── resnet-34_kinetics.onnx
 │ └── action_recognition_kinetics.txt
-├── har_recognition.py
+├── recognise_human_activity.py
 └── README.md
 
 bash
@@ -30,14 +30,14 @@ Edit
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-2. Install Dependencies
+### 2. Install Dependencies
 Make sure Python and OpenCV are installed:
 
 bash
 Copy
 Edit
 pip install opencv-python numpy
-3. Run the Code
+### 3. Run the Code
 bash
 Copy
 Edit
